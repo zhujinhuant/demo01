@@ -21,7 +21,7 @@ public class Main {
     @Test
     public void test1() {
         int age = 19;
-        System.out.println("age=" + age);
+        System.out.println("age=1" + age);
     }
 
 
